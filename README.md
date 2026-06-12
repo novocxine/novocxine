@@ -14,8 +14,7 @@ currently working on:
 
 **stack i reach for:** typescript · python · next.js · fastapi · mongodb · tailwind
 
-**interests:** ai hardware · geopolitics · dark fantasy · anything berserk/vinland saga coded
-
+**interests:** ai hardware · geopolitics · dark fantasy · 
 ---
 
 x27d.xyz · i@x27d.xyz · in/tdc9
