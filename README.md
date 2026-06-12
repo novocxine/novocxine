@@ -1,16 +1,21 @@
-## Hi there 👋
+## hey, i'm jayesh 👾
 
-<!--
-**novocxine/novocxine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+cs undergrad · building things that shouldn't exist
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+i write dark fantasy light novels as **404x** and build the software that goes with them.
+by day (and also by night), i'm deep in ai engineering, full-stack systems, and occasionally
+fighting the compiler.
+
+currently working on:
+- `akturag` — offline RAG system for students who don't trust the cloud
+- becoming an ai engineer before the ai becomes me
+
+**stack i reach for:** typescript · python · next.js · fastapi · mongodb · tailwind
+
+**interests:** ai hardware · geopolitics · dark fantasy · anything berserk/vinland saga coded
+
+---
+
+x27d.xyz · i@x27d.xyz · in/tdc9
