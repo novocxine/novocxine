@@ -4,7 +4,7 @@ cs undergrad · building things that shouldn't exist
 
 ---
 
-i write dark fantasy light novels as **404x** and build the software that goes with them.
+i write dark fantasy light novels and build the software that goes with them.
 by day (and also by night), i'm deep in ai engineering, full-stack systems, and occasionally
 fighting the compiler.
 
